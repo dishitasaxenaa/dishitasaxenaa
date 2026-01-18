@@ -1,5 +1,7 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner)](https://git.io/typing-svg)
+
 </p>
 
 <p align="center">
