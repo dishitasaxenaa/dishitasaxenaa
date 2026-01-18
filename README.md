@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 
 
@@ -50,8 +50,15 @@ My journey spans **DSA, Competitive Programming, OS, ML, and full-stack developm
 
 ## 👩🏻‍💻 My Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](dishitasaxena)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](dishitasaxenaa)
+<p align="center">
+  <a href="https://codeforces.com/profile/dishitasaxena">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/dishitasaxenaa">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
+</p>
+
 
 ---
 
