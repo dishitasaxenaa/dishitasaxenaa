@@ -1,10 +1,9 @@
-<h1 align="center"></h1>
-<h3 align="center">BTech (ECE + CSE) |  | Compeitive Programmer</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner)]       (https://git.io/typing-svg)
+</p>
 
 <p align="center">
-  <img src="./image.png" width="400"/>
+  <img src="./image" width="400" />
 </p>
 
 ---
