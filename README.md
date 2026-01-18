@@ -1,15 +1,5 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=30
-    &pause=1000
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=550
-    &lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" 
-  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 
 
