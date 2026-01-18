@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 
 
@@ -42,9 +42,9 @@ My journey spans **DSA, Competitive Programming, OS, ML, and full-stack developm
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishitasaxenaa&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishitasaxenaa&layout=compact&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishitasaxenaa&theme=react-dark)
 
 ---
 
