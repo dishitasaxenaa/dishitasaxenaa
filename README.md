@@ -1,8 +1,17 @@
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner)](https://git.io/typing-svg)
-
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=30
+    &pause=1000
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=550
+    &lines=Hi+👋,+I'm+Dishita+Saxena;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;A+Lifelong+Learner" 
+  />
 </p>
+
 
 <p align="center">
   <img src="./image" width="300" />
