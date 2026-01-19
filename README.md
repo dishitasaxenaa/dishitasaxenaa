@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./image.png" width="300" />
+  <img src="./image.png" width="700" />
 </p>
 
 ---
