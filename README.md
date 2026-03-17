@@ -37,9 +37,7 @@ My journey spans **DSA, Competitive Programming, OS, ML, and full-stack developm
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishitasaxenaa&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishitasaxenaa&layout=compact&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishitasaxenaa&theme=react-dark)
 
 ---
 
