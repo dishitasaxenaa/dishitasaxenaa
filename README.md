@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://dishitasaxena.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=868B80&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+%2C+I+am+Dishita+Saxena!;A+Problem+Solver;A+Competitive+Programmer;A+Software+Developer;Forever+Curious+and+Driven" alt="Typing SVG" /></a>
 </p>
 
@@ -24,13 +30,16 @@ My journey spans **DSA, Competitive Programming, OS, ML, and full-stack developm
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `Java` 
+`C++` `Java` `JavaScript` `TypeScript`
 
 **Core CS:**  
 `DSA` `Operating Systems` `DBMS` `Computer Networks`
 
 **Web Techonologies:**  
 `React` `Node.js` `Express.js` `JavaScript`
+
+**Databases:**
+`MySQL` `PostgreSQL`
 
 **Tools:**
 `Git` `GitHub` `Postman`
